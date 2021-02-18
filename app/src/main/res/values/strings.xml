@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Traductor OCR</string>
+    <string name="lvResultado">Resultado</string>
+    <string name="lvImage">Imagen previa</string>
+    <string name="ivImageDesc">image_preview</string>
+    <string name="btnTraduce">Traducir</string>
+    <string name="btnClear">Limpiar</string>
+    <string name="settings">Evitar saltos de línea</string>
+    <string name="btnAddImage">Añadir imagen</string>
+</resources>
